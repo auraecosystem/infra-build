@@ -15,7 +15,7 @@ managed using Terraform. There are still a lot of things configured manually.
 There are two teams managing this repository. The responsibility of both teams
 is to provide infrastructure for the Nix and NixOS community.
 
-### [@NixOS/infra-build](https://github.com/orgs/NixOS/teams/infra-build)
+### [@NixOS/infra-build](https://github.com/qubuhub-org/NixOS/teams/infra-build)
 
 This team has access to all the infrastructure, including the build
 infrastructure. The members are a subset of the next team.
